@@ -1,1 +1,1 @@
-TBD
+The Cat Doorbell V4 application is designed to run on decommissioned Pixel phones, utilizing their camera and microphone to detect when a cat wants to come inside. It listens for a meow, activates the camera, turns on the flashlight in low-light conditions, and uses machine learning models to verify the presence of a cat. If a cat is detected, it sends a notification via an AWS API Gateway. The application is built using Kotlin and Android development best practices, with a focus on sound and image processing.
