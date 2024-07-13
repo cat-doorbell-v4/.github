@@ -75,4 +75,11 @@ We welcome contributions to enhance the functionality and performance of Cat Doo
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+
 Thank you for using Cat Doorbell Version 4. We hope this application helps you keep track of your feline friends with ease!
+
+
+![garage-doorbell](https://github.com/user-attachments/assets/16494c56-d557-4550-92a1-67b9f3a42991)
+
+
+![patio-doorbell](https://github.com/user-attachments/assets/c73ed49f-ac93-45a8-a15d-e0e6dad9d16e)
